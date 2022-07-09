@@ -32,7 +32,10 @@ Please follow this document to create Dishes application with Azure Functions an
 				○ function.json: for routes and endpoint methods.
 				○ index.json: for endpoint logic.
 # Steps to reproduce -
+
 **npm install -g azure-functions-core-tools **
+
 **Install node dependency - npm install **
+
 ** Start the server - func host start**
 
