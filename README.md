@@ -35,5 +35,4 @@ Please follow this document to create Dishes application with Azure Functions an
 **npm install -g azure-functions-core-tools **
 **Install node dependency - npm install **
 ** Start the server - func host start**
-![image](https://user-images.githubusercontent.com/81349135/178112917-ddc541f5-8dc6-486a-b68a-0d8a5d0622f4.png)
 
