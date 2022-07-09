@@ -3,31 +3,31 @@ Dishes app with Azure Functions and MongoDB
 
 Please follow this document to create Dishes application with Azure Functions and integrated with MongoDB and Node.js
 
-Dependencies - 
+# Dependencies - 
 	• Install Azure Functions Core Tools package -  
 	This will allow you  to create and test this app locally your machine from a terminal or command prompt.
-	• Tools used program used.
+	• **Tools used program used.**
 		○ Visual Studio Code
 		○ Node.js – LTS
 		○ Azure Functions Core Tools
 		○ Postman
 		○ MongoDB Community Server
-	• File Structure and Significance - 
+	• **File Structure and Significance - **
 		○ Package.json - dependency management
 		○ Shared/mongodb -  connection to mongo DB
-		○ Azure function 1 - 
-			○ CreateDish
+		○ **Azure functions** - 
+			○ **CreateDish**
 				○ function.json: for routes and endpoint methods.
 				○ index.json: for endpoint logic.
-			○ GetAllDishes
+			○ **GetAllDishes**
 				○ function.json: for routes and endpoint methods.
 				○ index.json: for endpoint logic.
-			○ getAllDishesByID
+			○ **getAllDishesByID**
 				○ function.json: for routes and endpoint methods.
 				○ index.json: for endpoint logic.
-			○ updateDishbyid
+			○ **updateDishbyid**
 				○ function.json: for routes and endpoint methods.
 				○ index.json: for endpoint logic.
-			○ DeleteDishById
+			○ **DeleteDishById**
 				○ function.json: for routes and endpoint methods.
 				○ index.json: for endpoint logic.
